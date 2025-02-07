@@ -1,0 +1,23 @@
+{
+  "name": "playwright-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorimann/playwright-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jorimann/playwright-base/issues"
+  },
+  "homepage": "https://github.com/jorimann/playwright-base#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  }
+}
